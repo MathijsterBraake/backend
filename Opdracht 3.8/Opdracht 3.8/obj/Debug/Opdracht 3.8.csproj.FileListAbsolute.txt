@@ -1,0 +1,7 @@
+C:\Users\Mathijs\source\repos\Opdracht 3.8\Opdracht 3.8\bin\Debug\Opdracht 3.8.exe.config
+C:\Users\Mathijs\source\repos\Opdracht 3.8\Opdracht 3.8\bin\Debug\Opdracht 3.8.exe
+C:\Users\Mathijs\source\repos\Opdracht 3.8\Opdracht 3.8\bin\Debug\Opdracht 3.8.pdb
+C:\Users\Mathijs\source\repos\Opdracht 3.8\Opdracht 3.8\obj\Debug\Opdracht 3.8.csprojAssemblyReference.cache
+C:\Users\Mathijs\source\repos\Opdracht 3.8\Opdracht 3.8\obj\Debug\Opdracht 3.8.csproj.CoreCompileInputs.cache
+C:\Users\Mathijs\source\repos\Opdracht 3.8\Opdracht 3.8\obj\Debug\Opdracht 3.8.exe
+C:\Users\Mathijs\source\repos\Opdracht 3.8\Opdracht 3.8\obj\Debug\Opdracht 3.8.pdb

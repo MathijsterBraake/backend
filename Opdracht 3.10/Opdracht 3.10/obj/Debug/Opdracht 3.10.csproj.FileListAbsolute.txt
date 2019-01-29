@@ -1,0 +1,2 @@
+C:\Users\Mathijs\source\repos\Opdracht 3.10\Opdracht 3.10\obj\Debug\Opdracht 3.10.csprojAssemblyReference.cache
+C:\Users\Mathijs\source\repos\Opdracht 3.10\Opdracht 3.10\obj\Debug\Opdracht 3.10.csproj.CoreCompileInputs.cache

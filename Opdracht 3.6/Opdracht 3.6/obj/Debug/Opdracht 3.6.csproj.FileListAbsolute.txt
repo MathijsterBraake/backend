@@ -1,0 +1,7 @@
+C:\Users\Mathijs\source\repos\Opdracht 3.6\Opdracht 3.6\bin\Debug\Opdracht 3.6.exe.config
+C:\Users\Mathijs\source\repos\Opdracht 3.6\Opdracht 3.6\bin\Debug\Opdracht 3.6.exe
+C:\Users\Mathijs\source\repos\Opdracht 3.6\Opdracht 3.6\bin\Debug\Opdracht 3.6.pdb
+C:\Users\Mathijs\source\repos\Opdracht 3.6\Opdracht 3.6\obj\Debug\Opdracht 3.6.csprojAssemblyReference.cache
+C:\Users\Mathijs\source\repos\Opdracht 3.6\Opdracht 3.6\obj\Debug\Opdracht 3.6.csproj.CoreCompileInputs.cache
+C:\Users\Mathijs\source\repos\Opdracht 3.6\Opdracht 3.6\obj\Debug\Opdracht 3.6.exe
+C:\Users\Mathijs\source\repos\Opdracht 3.6\Opdracht 3.6\obj\Debug\Opdracht 3.6.pdb
